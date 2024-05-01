@@ -36,4 +36,3 @@ marcin.dodaj(10,20)
 pawel.dodaj(10,20)
 
 print(Test().odejmij(30, 20))
-
