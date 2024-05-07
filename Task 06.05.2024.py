@@ -12,3 +12,4 @@ count_E = s.count(b'E')
 count_e = s.count(b' e')
 count_res = count_E + count_e
 print('Count: ', count_res)
+
