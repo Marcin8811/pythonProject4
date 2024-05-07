@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62d044a7-009b-47a1-ab3a-e08ea787a4b1" name="Changes" comment="Task 07.05.2024">
+    <list default="true" id="62d044a7-009b-47a1-ab3a-e08ea787a4b1" name="Changes" comment="06.05.2024">
+      <change afterPath="$PROJECT_DIR$/Task 07.05.2024(7).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +67,7 @@
     "Python.Task 07.05.2024(4).executor": "Run",
     "Python.Task 07.05.2024(5).executor": "Run",
     "Python.Task 07.05.2024(6).executor": "Run",
+    "Python.Task 07.05.2024(7).executor": "Run",
     "Python.Task 07.05.2024.executor": "Run",
     "Python.app.executor": "Run",
     "Python.book.executor": "Run",
@@ -88,7 +90,7 @@
     "ChangesTree.GroupingKeys": []
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Task 07.05.2024(6)">
+  <component name="RunManager" selected="Python.Task 07.05.2024(7)">
     <configuration name="Task 07.04.2024 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject4 01_05_2024" />
       <option name="ENV_FILES" value="" />
@@ -104,29 +106,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task 07.04.2024 (3).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Task 07.05.2024(2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject4 01_05_2024" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task 07.05.2024(2).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,6 +183,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Task 07.05.2024(7)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject4 01_05_2024" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task 07.05.2024(7).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject4 01_05_2024" />
       <option name="ENV_FILES" value="" />
@@ -229,11 +231,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Task 07.05.2024(7)" />
         <item itemvalue="Python.Task 07.05.2024(6)" />
         <item itemvalue="Python.Task 07.05.2024(5)" />
         <item itemvalue="Python.Task 07.05.2024(4)" />
         <item itemvalue="Python.Task 07.04.2024 (3)" />
-        <item itemvalue="Python.Task 07.05.2024(2)" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +255,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714577190609</updated>
-      <workItem from="1714577191597" duration="56099000" />
+      <workItem from="1714577191597" duration="58020000" />
     </task>
     <task id="LOCAL-00001" summary="add function">
       <option name="closed" value="true" />
@@ -407,7 +409,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715102444560</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="06.05.2024">
+      <option name="closed" value="true" />
+      <created>1715103468220</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1715103468221</updated>
+    </task>
+    <task id="LOCAL-00021" summary="06.05.2024">
+      <option name="closed" value="true" />
+      <created>1715103872746</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1715103872746</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -464,7 +482,8 @@
     <MESSAGE value="kalkulator" />
     <MESSAGE value="Task 06.05.2024" />
     <MESSAGE value="Task 07.05.2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 07.05.2024" />
+    <MESSAGE value="06.05.2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="06.05.2024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -484,6 +503,7 @@
     <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$funkcje.coverage" NAME="funkcje Coverage Results" MODIFIED="1714584728603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$Task_07_05_2024_5_.coverage" NAME="Task 07.05.2024(5) Coverage Results" MODIFIED="1715101550984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$klasy.coverage" NAME="klasy Coverage Results" MODIFIED="1714590593055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$Task_07_05_2024_7_.coverage" NAME="Task 07.05.2024(7) Coverage Results" MODIFIED="1715106751626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$app.coverage" NAME="app Coverage Results" MODIFIED="1714749184812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$Task_07_05_2024.coverage" NAME="Task 07.05.2024 Coverage Results" MODIFIED="1715100048524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$Task_07_05_2024_6_.coverage" NAME="Task 07.05.2024(6) Coverage Results" MODIFIED="1715102354135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
