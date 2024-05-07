@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62d044a7-009b-47a1-ab3a-e08ea787a4b1" name="Changes" comment="Task 06.05.2024">
-      <change afterPath="$PROJECT_DIR$/Task 07.04.2024 (3).py" afterDir="false" />
+    <list default="true" id="62d044a7-009b-47a1-ab3a-e08ea787a4b1" name="Changes" comment="Task 07.05.2024">
+      <change afterPath="$PROJECT_DIR$/Task 07.05.2024(4).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +61,7 @@
     "Python tests.Python tests in book_test.py.executor": "Run",
     "Python tests.Python tests in kalkulator_test.py.executor": "Run",
     "Python.Task 06.05.2024.executor": "Run",
+    "Python.Task 07.04.2024 (3).executor": "Run",
     "Python.Task 07.05.2024(2).executor": "Run",
     "Python.Task 07.05.2024.executor": "Run",
     "Python.app.executor": "Run",
@@ -84,7 +85,7 @@
     "ChangesTree.GroupingKeys": []
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Task 07.04.2024 (3)">
+  <component name="RunManager" selected="Python.Task 07.05.2024(4)">
     <configuration name="Task 06.05.2024" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject4 01_05_2024" />
       <option name="ENV_FILES" value="" />
@@ -177,6 +178,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Task 07.05.2024(4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject4 01_05_2024" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task 07.05.2024(4).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject4 01_05_2024" />
       <option name="ENV_FILES" value="" />
@@ -200,29 +224,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in book_test.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject4 01_05_2024" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/book_test.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Task 07.05.2024(4)" />
         <item itemvalue="Python.Task 07.04.2024 (3)" />
         <item itemvalue="Python.Task 07.05.2024(2)" />
         <item itemvalue="Python.Task 07.05.2024" />
         <item itemvalue="Python.Task 06.05.2024" />
-        <item itemvalue="Python tests.Python tests in book_test.py" />
       </list>
     </recent_temporary>
   </component>
@@ -242,7 +250,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714577190609</updated>
-      <workItem from="1714577191597" duration="53389000" />
+      <workItem from="1714577191597" duration="53856000" />
     </task>
     <task id="LOCAL-00001" summary="add function">
       <option name="closed" value="true" />
@@ -364,7 +372,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715100469109</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Task 07.05.2024">
+      <option name="closed" value="true" />
+      <created>1715100814744</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1715100814744</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -420,7 +436,8 @@
     <MESSAGE value="book" />
     <MESSAGE value="kalkulator" />
     <MESSAGE value="Task 06.05.2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 06.05.2024" />
+    <MESSAGE value="Task 07.05.2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 07.05.2024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -435,13 +452,14 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$kalkulator.coverage" NAME="kalkulator Coverage Results" MODIFIED="1714746512100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$klasy.coverage" NAME="klasy Coverage Results" MODIFIED="1714590593055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$main.coverage" NAME="main Coverage Results" MODIFIED="1714578552568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$funkcje.coverage" NAME="funkcje Coverage Results" MODIFIED="1714584728603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$klasy.coverage" NAME="klasy Coverage Results" MODIFIED="1714590593055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$app.coverage" NAME="app Coverage Results" MODIFIED="1714749184812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$Task_07_05_2024.coverage" NAME="Task 07.05.2024 Coverage Results" MODIFIED="1715100048524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$funkcje.coverage" NAME="funkcje Coverage Results" MODIFIED="1714584728603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$book.coverage" NAME="book Coverage Results" MODIFIED="1714754443804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$Task_06_05_2024.coverage" NAME="Task 06.05.2024 Coverage Results" MODIFIED="1715015839735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$Task_07_04_2024__3_.coverage" NAME="Task 07.04.2024 (3) Coverage Results" MODIFIED="1715100708990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$.coverage" NAME=" Coverage Results" MODIFIED="1714760673976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$Task_07_05_2024_2_.coverage" NAME="Task 07.05.2024(2) Coverage Results" MODIFIED="1715100435522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$funkcje2.coverage" NAME="funkcje2 Coverage Results" MODIFIED="1714586410562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
