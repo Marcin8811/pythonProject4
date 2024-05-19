@@ -1,4 +1,7 @@
 #Utwórz klasę TodoList, która pozwoli na zarządzanie listą do wykonania. Napisz testy jednostkowe.
+from asyncio import tasks
+
+
 class TodoList:
     def __init__(self):
         self.tasks = []
@@ -8,7 +11,11 @@ class TodoList:
         self.tasks.append({'id' : self.current_id, 'task' : task, 'done' : False})
         return self.current_id
     def remove_task(self, task_id):
-        pass
+        new_tasks = []
+        for task in self.tasks:
+            if task['id'] != task_id:
+                new_tasks.append(task)
+        self.tasks = new_tasks
     def mark_task_done(self, task_id):
         pass
     def get_all_tasks(self):
@@ -16,10 +23,11 @@ class TodoList:
 
 if __name__ == "__main__":
     todolist = TodoList()
-    print(todolist.get_all_tasks())
+    #print(todolist.get_all_tasks())
     todolist.add_task("Zadanie testowe")
-    print(todolist.get_all_tasks())
+    #print(todolist.get_all_tasks())
     todolist.add_task("Inne zadanie")
+    #print(todolist.get_all_tasks())
+    todolist.remove_task(3)
     print(todolist.get_all_tasks())
-
 
