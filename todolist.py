@@ -16,8 +16,14 @@ class TodoList:
             if task['id'] != task_id:
                 new_tasks.append(task)
         self.tasks = new_tasks
-    def mark_task_done(self, task_id):
-        pass
+    def mark_task_as_done(self, task_id):
+        new_tasks = []
+        for task in self.tasks:
+            if task['id'] == task_id:
+                task['done'] = True
+            new_tasks.append(task)
+        self.tasks = new_tasks
+
     def get_all_tasks(self):
         return self.tasks
 
@@ -28,6 +34,10 @@ if __name__ == "__main__":
     #print(todolist.get_all_tasks())
     todolist.add_task("Inne zadanie")
     #print(todolist.get_all_tasks())
-    todolist.remove_task(3)
+    #todolist.remove_task(3)
     print(todolist.get_all_tasks())
+    todolist.mark_task_as_done(2)
+    print(todolist.get_all_tasks())
+
+
 
