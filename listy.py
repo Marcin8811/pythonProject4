@@ -1,4 +1,3 @@
-#Utwórz klasę TodoList, która pozwoli na zarządzanie listą do wykonania. Napisz testy jednostkowe.
 #       indexy        0    1     2      3
 przykladowa_lista = [12, 'abc', 3.14, True]
 
