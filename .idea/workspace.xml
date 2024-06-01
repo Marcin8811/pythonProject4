@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62d044a7-009b-47a1-ab3a-e08ea787a4b1" name="Changes" comment="06.05.2024">
-      <change afterPath="$PROJECT_DIR$/Task 07.05.2024(7).py" afterDir="false" />
+    <list default="true" id="62d044a7-009b-47a1-ab3a-e08ea787a4b1" name="Changes" comment="Task 07.05.2024(7)">
+      <change afterPath="$PROJECT_DIR$/24.05.2024 WSB" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_todolist.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_todolist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_todolist1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_todolist1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist.py" beforeDir="false" afterPath="$PROJECT_DIR$/todolist.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,21 +37,24 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Marcin8811"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Marcin8811&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:/Marcin8811/pythonProject4.git",
-    "accountId": "4fb57df5-7479-404b-80dd-c12253dd1694"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:/Marcin8811/pythonProject4.git&quot;,
+    &quot;accountId&quot;: &quot;4fb57df5-7479-404b-80dd-c12253dd1694&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2fs5xR5G3Y4y3DOzNfYqnzffdU1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -57,43 +63,60 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests in book_test.py.executor": "Run",
-    "Python tests.Python tests in kalkulator_test.py.executor": "Run",
-    "Python.Task 06.05.2024.executor": "Run",
-    "Python.Task 07.04.2024 (3).executor": "Run",
-    "Python.Task 07.05.2024(2).executor": "Run",
-    "Python.Task 07.05.2024(4).executor": "Run",
-    "Python.Task 07.05.2024(5).executor": "Run",
-    "Python.Task 07.05.2024(6).executor": "Run",
-    "Python.Task 07.05.2024(7).executor": "Run",
-    "Python.Task 07.05.2024.executor": "Run",
-    "Python.app.executor": "Run",
-    "Python.book.executor": "Run",
-    "Python.funkcje.executor": "Run",
-    "Python.funkcje2.executor": "Run",
-    "Python.kalkulator.executor": "Run",
-    "Python.klasy.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "vcs.Git",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests in book_test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in kalkulator_test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in temperatureconverterstatic.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_account.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_account1.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_account_class.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_temperatureconverter.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_temperatureconverterstatic.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_todolist.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_todolist1.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task 06.05.2024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task 07.04.2024 (3).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task 07.05.2024(2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task 07.05.2024(4).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task 07.05.2024(5).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task 07.05.2024(6).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task 07.05.2024(7).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task 07.05.2024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.account.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.book.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funkcje.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funkcje2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.kalkulator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.klasy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.listy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.slowniki.executor&quot;: &quot;Run&quot;,
+    &quot;Python.temperarureconverter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.temperatureconverter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.temperatureconverterstatic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tempetarureconverter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.todolist.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": []
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+    ]
   }
-}]]></component>
-  <component name="RunManager" selected="Python.Task 07.05.2024(7)">
-    <configuration name="Task 07.04.2024 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="Python tests.Python tests in test_todolist1.py">
+    <configuration name="123123123123" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject4 01_05_2024" />
-      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -105,99 +128,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task 07.04.2024 (3).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Task 07.05.2024(4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject4 01_05_2024" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task 07.05.2024(4).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Task 07.05.2024(5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject4 01_05_2024" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task 07.05.2024(5).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Task 07.05.2024(6)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject4 01_05_2024" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task 07.05.2024(6).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Task 07.05.2024(7)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject4 01_05_2024" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task 07.05.2024(7).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/123123123123.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,7 +139,6 @@
     </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject4 01_05_2024" />
-      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -229,21 +159,81 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests in temperatureconverterstatic.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject4 01_05_2024" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/temperatureconverterstatic.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_temperatureconverter.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject4 01_05_2024" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_temperatureconverter.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_temperatureconverterstatic.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject4 01_05_2024" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_temperatureconverterstatic.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_todolist1.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject4 01_05_2024" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_todolist1.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Task 07.05.2024(7)" />
-        <item itemvalue="Python.Task 07.05.2024(6)" />
-        <item itemvalue="Python.Task 07.05.2024(5)" />
-        <item itemvalue="Python.Task 07.05.2024(4)" />
-        <item itemvalue="Python.Task 07.04.2024 (3)" />
+        <item itemvalue="Python tests.Python tests in test_todolist1.py" />
+        <item itemvalue="Python.123123123123" />
+        <item itemvalue="Python tests.Python tests in temperatureconverterstatic.py" />
+        <item itemvalue="Python tests.Python tests in test_temperatureconverterstatic.py" />
+        <item itemvalue="Python tests.Python tests in test_temperatureconverter.py" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
-        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17011.127" />
+        <option value="bundled-python-sdk-48aec45f0201-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17011.127" />
       </set>
     </attachedChunks>
   </component>
@@ -255,7 +245,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714577190609</updated>
-      <workItem from="1714577191597" duration="58020000" />
+      <workItem from="1714577191597" duration="70094000" />
+      <workItem from="1716048460703" duration="23380000" />
+      <workItem from="1717085984274" duration="1920000" />
+      <workItem from="1717091096149" duration="85000" />
+      <workItem from="1717091854871" duration="190000" />
+      <workItem from="1717158353528" duration="312000" />
+      <workItem from="1717160094537" duration="84000" />
+      <workItem from="1717160182126" duration="53000" />
+      <workItem from="1717160358607" duration="182000" />
+      <workItem from="1717160602046" duration="742000" />
+      <workItem from="1717161379311" duration="54000" />
+      <workItem from="1717161436603" duration="232000" />
+      <workItem from="1717162030970" duration="67000" />
+      <workItem from="1717162103766" duration="163000" />
+      <workItem from="1717162358753" duration="87000" />
+      <workItem from="1717165447809" duration="282000" />
+      <workItem from="1717165786693" duration="360000" />
+      <workItem from="1717166867735" duration="15000" />
+      <workItem from="1717166919214" duration="41000" />
+      <workItem from="1717166963356" duration="37000" />
+      <workItem from="1717167074476" duration="224000" />
+      <workItem from="1717167305478" duration="31000" />
+      <workItem from="1717167343072" duration="137000" />
+      <workItem from="1717168833619" duration="10000" />
+      <workItem from="1717171971581" duration="29000" />
+      <workItem from="1717172054543" duration="4135000" />
     </task>
     <task id="LOCAL-00001" summary="add function">
       <option name="closed" value="true" />
@@ -425,28 +440,140 @@
       <option name="project" value="LOCAL" />
       <updated>1715103872746</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Task 07.05.2024(7)">
+      <option name="closed" value="true" />
+      <created>1715106836504</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1715106836504</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Task 07.05.2024(7)">
+      <option name="closed" value="true" />
+      <created>1716043149108</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1716043149108</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Task 07.05.2024(7)">
+      <option name="closed" value="true" />
+      <created>1716048105058</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1716048105058</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Task 07.05.2024(7)">
+      <option name="closed" value="true" />
+      <created>1716126444316</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1716126444316</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Task 07.05.2024(7)">
+      <option name="closed" value="true" />
+      <created>1716129479947</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1716129479947</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Task 07.05.2024(7)">
+      <option name="closed" value="true" />
+      <created>1716129967829</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1716129967829</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Task 07.05.2024(7)">
+      <option name="closed" value="true" />
+      <created>1716130849834</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1716130849834</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Task 07.05.2024(7)">
+      <option name="closed" value="true" />
+      <created>1716132745312</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1716132745312</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Task 07.05.2024(7)">
+      <option name="closed" value="true" />
+      <created>1716133743986</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1716133743986</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Task 07.05.2024(7)">
+      <option name="closed" value="true" />
+      <created>1716134843064</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1716134843064</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Task 07.05.2024(7)">
+      <option name="closed" value="true" />
+      <created>1716136029023</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1716136029023</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Task 07.05.2024(7)">
+      <option name="closed" value="true" />
+      <created>1716136357795</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1716136357795</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Task 07.05.2024(7)">
+      <option name="closed" value="true" />
+      <created>1716138621661</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1716138621661</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Task 07.05.2024(7)">
+      <option name="closed" value="true" />
+      <created>1716138769842</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1716138769843</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Task 07.05.2024(7)">
+      <option name="closed" value="true" />
+      <created>1716486228503</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1716486228503</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Task 07.05.2024(7)">
+      <created>1717172493220</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1717172493220</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="Branch">
-          <value>
-            <list>
-              <RecentGroup>
-                <option name="FILTER_VALUES">
-                  <option value="main" />
-                </option>
-              </RecentGroup>
-            </list>
-          </value>
-        </entry>
-      </map>
-    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
@@ -468,6 +595,21 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add function" />
@@ -483,7 +625,8 @@
     <MESSAGE value="Task 06.05.2024" />
     <MESSAGE value="Task 07.05.2024" />
     <MESSAGE value="06.05.2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="06.05.2024" />
+    <MESSAGE value="Task 07.05.2024(7)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 07.05.2024(7)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -493,25 +636,37 @@
           <line>19</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_account.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$kalkulator.coverage" NAME="kalkulator Coverage Results" MODIFIED="1714746512100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$main.coverage" NAME="main Coverage Results" MODIFIED="1714578552568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$Task_07_05_2024_4_.coverage" NAME="Task 07.05.2024(4) Coverage Results" MODIFIED="1715101131049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$funkcje.coverage" NAME="funkcje Coverage Results" MODIFIED="1714584728603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$Task_07_05_2024_5_.coverage" NAME="Task 07.05.2024(5) Coverage Results" MODIFIED="1715101550984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$Task_07_05_2024_4_.coverage" NAME="Task 07.05.2024(4) Coverage Results" MODIFIED="1715101131049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$klasy.coverage" NAME="klasy Coverage Results" MODIFIED="1714590593055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$Task_07_05_2024_7_.coverage" NAME="Task 07.05.2024(7) Coverage Results" MODIFIED="1715106751626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$Task_06_05_2024.coverage" NAME="Task 06.05.2024 Coverage Results" MODIFIED="1715015839735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$kalkulator.coverage" NAME="kalkulator Coverage Results" MODIFIED="1714746512100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$.coverage" NAME=" Coverage Results" MODIFIED="1717245800872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$Task_07_05_2024_5_.coverage" NAME="Task 07.05.2024(5) Coverage Results" MODIFIED="1715101550984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$slowniki.coverage" NAME="slowniki Coverage Results" MODIFIED="1716130655255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$temperatureconverterstatic.coverage" NAME="temperatureconverterstatic Coverage Results" MODIFIED="1716049855147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$funkcje2.coverage" NAME="funkcje2 Coverage Results" MODIFIED="1714586410562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$account.coverage" NAME="account Coverage Results" MODIFIED="1716042619614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$app.coverage" NAME="app Coverage Results" MODIFIED="1714749184812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$todolist.coverage" NAME="todolist Coverage Results" MODIFIED="1716135712566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$main.coverage" NAME="main Coverage Results" MODIFIED="1714578552568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$temperarureconverter.coverage" NAME="temperarureconverter Coverage Results" MODIFIED="1716044051859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$book.coverage" NAME="book Coverage Results" MODIFIED="1714754443804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$Task_07_05_2024.coverage" NAME="Task 07.05.2024 Coverage Results" MODIFIED="1715100048524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$Task_07_05_2024_6_.coverage" NAME="Task 07.05.2024(6) Coverage Results" MODIFIED="1715102354135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$book.coverage" NAME="book Coverage Results" MODIFIED="1714754443804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$Task_06_05_2024.coverage" NAME="Task 06.05.2024 Coverage Results" MODIFIED="1715015839735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$listy.coverage" NAME="listy Coverage Results" MODIFIED="1716126369577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$Task_07_04_2024__3_.coverage" NAME="Task 07.04.2024 (3) Coverage Results" MODIFIED="1715100708990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$.coverage" NAME=" Coverage Results" MODIFIED="1714760673976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$123123123123.coverage" NAME="123123123123 Coverage Results" MODIFIED="1717172271085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$tempetarureconverter.coverage" NAME="temperatureconverter Coverage Results" MODIFIED="1716049453550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$Task_07_05_2024_7_.coverage" NAME="Task 07.05.2024(7) Coverage Results" MODIFIED="1715106751626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$Task_07_05_2024_2_.coverage" NAME="Task 07.05.2024(2) Coverage Results" MODIFIED="1715100435522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonProject4_01_05_2024$funkcje2.coverage" NAME="funkcje2 Coverage Results" MODIFIED="1714586410562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

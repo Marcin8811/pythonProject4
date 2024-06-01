@@ -2,7 +2,7 @@ class TodoList:
     def __init__(self):
         self.tasks = []
         self.current_id = 0
-    def add_task(self, task):
+    def add_task(self, task: 1) -> object:
         self.current_id += 1
         self.tasks.append({'id' : self.current_id, 'task' : task, 'done' : False})
         return self.current_id

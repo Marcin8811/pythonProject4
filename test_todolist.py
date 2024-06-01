@@ -39,5 +39,6 @@ class TestTodoList(unittest.TestCase):
         self.assertEqual(2, len(self.todolist.get_all_tasks()))
         self.assertEqual("Zadanie testowe", self.todolist.get_all_tasks()[1]['task'])
 
+
 if __name__ == "__main__":
     unittest.main()

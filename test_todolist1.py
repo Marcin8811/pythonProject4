@@ -8,7 +8,7 @@ class TestTodoList(unittest.TestCase):
         self.assertEqual(0, len(self.todolist.get_all_tasks()))
         test_id = self.todolist.add_task("Zadanie testowe")
         self.assertEqual(1, len(self.todolist.get_all_tasks()))
-        self.assertEqual({'id' : test_id, 'task' : "Zadanie testowe", 'done' : False}, self.todolist.get_all_tasks()[0])
+        self.assertEqual({'id': 1, 'task' : "Zadanie testowe", 'done' : False}, self.todolist.get_all_tasks()[0])
 
     def test_remove_task(self, test_id=1):
         self.assertEqual(0, len(self.todolist.get_all_tasks()))
@@ -16,6 +16,16 @@ class TestTodoList(unittest.TestCase):
         self.assertEqual(1, len(self.todolist.get_all_tasks()))
         self.todolist.remove_task(test_id)
         self.assertEqual(0, len(self.todolist.get_all_tasks()))
+
+    def test_mark_task_as_done(self, test_id=1):
+        self.assertEqual(0, len(self.todolist.get_all_tasks()))
+        self.todolist.add_task("Zadanie testowe")
+        self.assertEqual(1, len(self.todolist.get_all_tasks()))
+        self.assertFalse(self.todolist.get_all_tasks()[0]['done'])
+        self.todolist.mark_task_as_done(test_id)
+        #self.assertEqual({'id': 1, 'task': "Zadanie testowe", 'done': True}, self.todolist.get_all_tasks()[0])
+        #self.assertEqual(True, self.todolist.get_all_tasks()[0]['done'])
+        self.assertTrue(self.todolist.get_all_tasks()[0]['done'])
 
 if __name__ == "__main__":
     unittest.main()
