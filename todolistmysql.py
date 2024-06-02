@@ -1,9 +1,11 @@
 import pymysql
 
 class TodoList:
-    def __init__(self):
-        self.tasks = []
-        self.current_id = 0
+    def __init__(self, db):
+        self.db = db
+        self.cursor = self.db.cursor()
+        #self.tasks = []
+        #self.current_id = 0
     def add_task(self, task):
         self.current_id += 1
         self.tasks.append({'id' : self.current_id, 'task' : task, 'done' : False})
@@ -25,4 +27,5 @@ class TodoList:
 
 
 if __name__ == '__main__':
-    todolist = TodoList()
+    db = pymysql.connect(host='localhost', user='root', password='', db='todolist')
+    todolist = TodoList(db)
